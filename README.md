@@ -2,7 +2,11 @@
 # News Aggregator Backend
 
 A news aggregator website that pulls articles from various sources and serves them to the 
-frontend application.
+frontend application. Source used for data collection are:
+
+NewsApi
+The Guardian
+New York Time
 
 
 ## Installation
